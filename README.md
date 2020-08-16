@@ -10,8 +10,8 @@ This theme is an port of the material candy theme by [millsp](https://github.com
 ## Install
 
 ``` emacs-lisp
-(require 'candy)
-(load-theme candy)
+(require 'material-candy)
+(load-theme material-candy)
 ```
 
 ## Configure
