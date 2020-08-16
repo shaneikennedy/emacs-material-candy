@@ -1,4 +1,4 @@
-# Material candy theme [Emacs](https://www.gnu.org/software/emacs/)
+# Material candy theme for [Emacs](https://www.gnu.org/software/emacs/)
 
 > A dark theme for [Emacs](https://www.gnu.org/software/emacs/).
 
