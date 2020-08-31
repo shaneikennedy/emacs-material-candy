@@ -1,13 +1,13 @@
-;;; material-candy-theme.el --- Material-Candy Theme
+;;; material-candy.el --- Material-Candy Theme -*- lexical-binding: t; -*-
 
-;; Copyright 2015-present, All rights reserved
-;;
-;; Code licensed under the MIT license
+;; Copyright (C) 2020  Shane Kennedy
 
-;; Author: shaneikennedy
-;; Version: 1.7.0
+;; Author: Shane Kennedy
+;; Version: 0
 ;; Package-Requires: ((emacs "24.3"))
-;; URL: https://github.com/shaneikennedy/emacs-material-material-candy
+;; SPDX-License-Identifier: GPL-3.0-or-later
+;; Keywords: theme
+;; Homepage: https://github.com/shaneikennedy/emacs-material-candy
 
 ;;; Commentary:
 ;; A port of material material-candy by millsp.
@@ -724,9 +724,5 @@ Material-Candy theme:
 
 (provide-theme 'material-candy)
 
-;; Local Variables:
-;; no-byte-compile: t
-;; indent-tabs-mode: nil
-;; End:
-
-;;; material-candy-theme.el ends here
+(provide 'material-candy)
+;;; material-candy.el ends here
